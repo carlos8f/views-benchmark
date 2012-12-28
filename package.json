@@ -1,0 +1,26 @@
+{
+  "name": "views-benchmark",
+  "version": "0.0.0",
+  "description": "Benchmark and compare strategies for rendering templates in node.js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlos8f/views-benchmark.git"
+  },
+  "homepage": "https://github.com/carlos8f/views-benchmark",
+  "keywords": [
+    "benchmark",
+    "views",
+    "template",
+    "render"
+  ],
+  "author": "Carlos Rodriguez <carlos@s8f.org> (http://s8f.org/)",
+  "license": "MIT"
+}
